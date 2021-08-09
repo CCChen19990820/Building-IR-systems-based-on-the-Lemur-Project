@@ -1,6 +1,7 @@
 # IR-systems-based-on-the-Lemur-Project
 
 1.Please download the WT2g data collection for this project (Don't distribute it!!!).
+
 2.this project is to implement several different retrieval methods, i.e. algorithms that given a user's request (query) and a corpus of documents assign a score to each document according to its relevance to the query.There are four kind of ranking method, as follow:
 
 (1)Vector space model, terms weighted by Okapi TF (see note) times an IDF value, and inner product similarity between vectors.
