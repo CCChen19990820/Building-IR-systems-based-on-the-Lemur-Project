@@ -27,4 +27,4 @@ where P is the estimated probability from document (max likelihood = m_i/n) and 
 You have to do something that can really improve the rank quality of the chosen IR models, and explain and showcase why your modifications can work.
 
 
-3.now run the VectorSpace.py 
+3.Run VectorSpace.py 
